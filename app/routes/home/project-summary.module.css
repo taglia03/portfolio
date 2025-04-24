@@ -148,6 +148,17 @@
   }
 }
 
+/* Stile predefinito (tema chiaro) */
+#hacked-vertical-color {
+  fill: black; /* O il colore che usi di default */
+}
+
+/* Stile per il tema scuro */
+@media (prefers-color-scheme: dark) {
+  #hacked-vertical-color {
+    fill: white; /* O il colore desiderato per il tema scuro */
+  }
+}
 .svg {
   opacity: 0;
   transition: opacity 1200ms ease 1400ms;

@@ -1,11 +1,10 @@
 {
-  "name": "Hamish Williams",
-  "role": "Designer",
-  "disciplines": ["Developer", "Prototyper", "Animator", "Illustrator", "Modder"],
-  "url": "https://hamishw.com",
-  "bluesky": "hamishw.com",
-  "figma": "@Hamish",
-  "github": "HamishMW",
-  "repo": "https://github.com/HamishMW/portfolio",
+  "name": "Riccardo Tagliabue",
+  "role": "Sviluppatore",
+  "disciplines": ["Frontend", "Backend", "Full-Stack", "Ui/Ux"],
+  "url": "https://riccardotagliabue.com",
+  "linkedin" : "riccardo-tagliabue",
+  "github": "taglia03",
+  "repo": "https://github.com/taglia03/",
   "ascii": "__  __  __\n\u005C \u005C \u005C \u005C \u005C\u2215\n \u005C \u005C\u2215\u005C \u005C\n  \u005C\u2215  \u005C\u2215\n"
 }
