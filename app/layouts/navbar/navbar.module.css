@@ -29,7 +29,7 @@
     position: relative;
     padding: var(--spaceS) var(--spaceS) var(--spaceL);
     z-index: var(--zIndex2);
-
+    background: none;
     @media (--mediaMobile) {
       padding-bottom: var(--spaceS);
     }
